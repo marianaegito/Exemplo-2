@@ -34,6 +34,25 @@ console.log(typeof exemplo6)
 
 //CONVERSÕES
 
+//float => inteiro
+
+let numfloat =123.456;
+console.log(parseInt(numfloat));
+
+//string => float
+let numString ="547.987";
+console.log(parseFloat(numString))
+
+//float => string
+
+let numfloat1= 554.665;
+console.log(numfloat1.toString());
+
+let numInt=100;
+
+
+
+
 
 
 
